@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as s,a as r,b as t,A as a}from"./index-Db7QiMap.js";const f=""+new URL("../images/logo/auth-logo.svg",import.meta.url).href,n={},c={class:"min-h-screen"};function l(e,_){return s(),r("div",c,[t("main",null,[a(e.$slots,"default")])])}const u=o(n,[["render",l]]);export{u as F,f as _};
